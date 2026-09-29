@@ -1,0 +1,11 @@
+{
+  "name": "مخزون المحل",
+  "short_name": "المخزون",
+  "lang": "ar",
+  "dir": "rtl",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#FFF4F8",
+  "theme_color": "#3B1F2B",
+  "icons": []
+}
